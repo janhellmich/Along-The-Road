@@ -15,7 +15,7 @@ You can review a live demo of the current pull request to the development branch
 
 The current development branch is deployed here: [http://alongtheroad-development.herokuapp.com/](http://alongtheroad-development.herokuapp.com/)
 
-The deployed funtional app is deployed here: [http://alongtheroad.herokuapp.com/](http://alongtheroad.herokuapp.com/)
+The deployed funtional app is deployed here: [http://foodenroute.herokuapp.com/](http://foodenroute.herokuapp.com/)
 
 ### Contribution Workflow
 
